@@ -133,5 +133,3 @@ INSERT INTO Pembayaran VALUES
 
 INSERT INTO Ulasan VALUES
 (501, 201, 2, 5.0, 'Barang bagus, sesuai deskripsi!', '2025-05-02');
-
-select *
